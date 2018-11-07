@@ -15,10 +15,10 @@ public class Calculator {
 
             //Pobranie rodzaju aplikacji
             System.out.println("Podaj operacje");
-            System.out.println("1 dodaje");
-            System.out.println("2 odejmuje");
-            System.out.println("3 mnozy");
-            System.out.println("4 dzieli");
+            System.out.println("+ dodaje");
+            System.out.println("- odejmuje");
+            System.out.println("* mnozy");
+            System.out.println("/ dzieli");
             System.out.println("q konczy dzialanie");
             String operation = in.next();
 
