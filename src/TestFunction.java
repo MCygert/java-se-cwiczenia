@@ -36,10 +36,8 @@ public class TestFunction {
         for (int number : inputArray) {
             averageSum += number;
         }
-        {
-        }
         //dzielenie sredniej z tablicy przez ilosc liczb w niej zawartej
         return averageSum / inputArray.length;
-        
+
     }
 }
