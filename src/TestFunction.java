@@ -40,5 +40,6 @@ public class TestFunction {
         }
         //dzielenie sredniej z tablicy przez ilosc liczb w niej zawartej
         return averageSum / inputArray.length;
+        
     }
 }
