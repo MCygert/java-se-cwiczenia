@@ -12,7 +12,7 @@ public class AverageExercise {
         System.out.println("Podaj liczbe");
         int num2 = in.nextInt();
 
-        System.out.println("Srednia to: " + averageNumber(num1, num2, num3))
+        System.out.println("Srednia to: " + averageNumber(num1, num2, num3));
     }
 
     static double averageNumber(int number1, int number2, int number3) {
