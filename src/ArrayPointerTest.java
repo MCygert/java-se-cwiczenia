@@ -2,7 +2,7 @@ public class ArrayPointerTest {
     public static void main(String[] args) {
 
         double[] xCoordinates = {10, 20, 30, 51.5};
-        int xSum = countSumOfElements(xCoordinates)
+        int xSum = countSumOfElements(xCoordinates);
     }
 
     private static int countSumOfElements(double[] xCoordinates) {
