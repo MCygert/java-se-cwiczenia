@@ -17,5 +17,18 @@ public class Logic {
         }else {
             System.out.println("To nie jest kolo");
         }
+
+
+        //Uproszczenie prostego ifa
+        int year = -2000;
+        String era;
+        if (year < 0) {
+            era = "BC";
+        } else {
+            era = "AD";
+        }
+        //     Jestli jest true   Drugie jest False
+        era = year < 0 ? "BC" : "AD";
+
     }
 }
