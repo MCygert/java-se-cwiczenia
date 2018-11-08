@@ -21,6 +21,19 @@ public class TestFunction {
         return sum;
     }
 
+
+    //zadeklorwana funkcja ktora zostala przeciazona moze uzyc jako argumentu innego typu zmiennej
+
+    static int countSumOfElements(double[] inputArray) {
+        int sum = 0;
+        for (int i = 0; i < inputArray.length; i++) {
+            sum += inputArray[i];
+
+        }
+        //Zwracana wartosc funkcji
+        return sum;
+    }
+
     //Zadeklarowanie kolejnej funkcji
     static double countVelocity(double time, double route) {
         double velocity = route / time;

@@ -10,7 +10,7 @@ public class ArrayPointerTest {
         for (int i = 0; i < xCoordinates.length; i++) {
             sum += xCoordinates[i];
         }
-        xCoordinates[1] = -5000;
+        xCoordinates[1] = -5000; //Blad nei zmieniaj wartosci w funkcjach!
         return sum;
     }
 }
