@@ -1,3 +1,4 @@
+/*
 package Rearanging;
 
 import java.lang.reflect.Array;
@@ -13,11 +14,13 @@ public class TicTacToe {
         int YCoordinate = askForYCoordinate();
 
 
-        /*
+        */
+/*
         while (gameContinue) {
             empyGameBoard(gameBoard);
             System.out.println(Array.toString(gameBoard));
-        }*/
+        }*//*
+
     }
 
     static boolean winningCondiion(char[][] gameBoard) {
@@ -111,3 +114,4 @@ public class TicTacToe {
         return scanner.nextInt();
     }
 }
+*/
