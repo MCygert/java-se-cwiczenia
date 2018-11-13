@@ -24,7 +24,7 @@ public class Diamond extends Figure {
 //    }
 //
 
-    double countArea() {
+    public double countArea() {
         return e * f;
     }
 

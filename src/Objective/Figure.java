@@ -18,4 +18,8 @@ public abstract class Figure {
     public void setColor(String color) {
         this.color = color;
     }
+
+    //abstract method which encourage in next objects which inheritetad from Figure
+    public abstract double countArea();
+
 }
