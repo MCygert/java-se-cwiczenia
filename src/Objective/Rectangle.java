@@ -21,6 +21,9 @@ public class Rectangle {
         this.b = b;
     }
 
+    //********************************************
+
+    //Constructor for rectangle
     public Rectangle(double a, double b) {
         this.a = a;
         this.b = b;
