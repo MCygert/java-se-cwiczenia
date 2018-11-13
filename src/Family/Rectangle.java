@@ -16,6 +16,7 @@ public class Rectangle extends Figure {
     }
 
     public void setWideA(double wideA) {
+        System.out.println("Set w prostokacie");
         this.wideA = wideA;
     }
 

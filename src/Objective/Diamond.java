@@ -19,10 +19,10 @@ public class Diamond extends Figure {
     }
 
     //Construcot overload u can do it aswell with methods
-    public Diamond(double a, String color) {
-        this(a / 10, 1 / 5, color);
-    }
-
+//    public Diamond(double a, String color) {
+//        this(a / 10, 1 / 5, color);
+//    }
+//
 
     double countArea() {
         return e * f;
