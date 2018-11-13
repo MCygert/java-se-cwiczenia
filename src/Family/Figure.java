@@ -1,11 +1,7 @@
-package Objective;
+package Family;
 
-
-//abstract class u cant make this object, only usage is inheritance
 public abstract class Figure {
-    //protected only accesable by Class and  inheritance
     protected String color;
-
 
     public Figure(String color) {
         this.color = color;

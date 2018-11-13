@@ -9,15 +9,18 @@ public class Diamond extends Figure {
     private double a;
 
     //Constructor encourages programmer to define thiis diamon before making it
-    public Diamond(double e, double f) {
+    public Diamond(double e, double f, String color) {
+        //Odnosi sie do konstruktora o jeden wyzej poziom
+        //
+        super(color);
         this.e = e;
         this.f = f;
-        this.color = "czerwony";
+        // usage of inheritaded parameter
     }
 
     //Construcot overload u can do it aswell with methods
-    public Diamond(double a) {
-        this.a = a;
+    public Diamond(double a, String color) {
+        this(a / 10, 1 / 5, color);
     }
 
 
