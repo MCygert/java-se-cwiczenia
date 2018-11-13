@@ -7,6 +7,7 @@ public class AlphabetCheceker {
         //Initialization of all Ascii Characters and user String
         String userString = readStringFromConsole();
         char[] userCharArray = userString.toCharArray();
+
         char aFromAlphabet = 'a';
         char zFromAlphaber = 'z';
         boolean isInArray;

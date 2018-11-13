@@ -1,3 +1,4 @@
+/*
 package Rearanging;
 
 public class BubbleSort {
@@ -26,3 +27,4 @@ public class BubbleSort {
         return array[];
     }
 }
+*/
