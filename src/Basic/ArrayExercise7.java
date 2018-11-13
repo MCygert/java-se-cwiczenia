@@ -1,3 +1,5 @@
+package Basic;
+
 public class ArrayExercise7 {
     public static void main(String[] args) {
         int[] tArray = {1, 2, 3, 4, 5};

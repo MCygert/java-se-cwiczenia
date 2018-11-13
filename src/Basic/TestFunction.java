@@ -1,3 +1,5 @@
+package Basic;
+
 public class TestFunction {
     public static void main(String[] args) {
         int[] vals1 = {1, 2, 3, 4, 5, 6, 7};

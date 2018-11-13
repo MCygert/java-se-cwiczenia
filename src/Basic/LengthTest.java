@@ -1,3 +1,5 @@
+package Basic;
+
 public class LengthTest {
     public static void main(String[] args) {
         //Inicjalizacja zmiennych

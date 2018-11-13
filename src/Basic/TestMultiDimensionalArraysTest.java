@@ -1,3 +1,5 @@
+package Basic;
+
 public class TestMultiDimensionalArraysTest {
     public static void main(String[] args) {
         int[][] gameBoard = new int[10][];

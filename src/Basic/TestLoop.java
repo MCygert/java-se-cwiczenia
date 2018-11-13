@@ -1,3 +1,5 @@
+package Basic;
+
 public class TestLoop {
     public static void main(String[] args) {
         int[] yCoordinates = {1, 2, 3, 4, 5};

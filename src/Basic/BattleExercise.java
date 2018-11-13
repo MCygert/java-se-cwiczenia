@@ -1,3 +1,5 @@
+package Basic;
+
 public class BattleExercise {
     public static void main(String[] args) {
         //Inicjalizacja
