@@ -18,11 +18,11 @@ public class Line {
         if (peopleInLine[0] != 25) {
             return "NO";
        // todo: Add first person to vasyaMoney
-       // todo: Create algorithm for checking if vasya can give change from money that he have      
+       // todo: Create algorithm for checking if vasya can give change from money that he has
         } else {
 
 
         }
 
-    }
+    return "";}
 }
