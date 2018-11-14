@@ -1,3 +1,4 @@
+/*
 package exeptions;
 
 import Objective.Traingle;
@@ -14,3 +15,4 @@ public class ExceptionTest {
         }
     }
 }
+*/
